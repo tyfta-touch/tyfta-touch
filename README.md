@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tyfta-touch
-- 👀 I’m interested in realtime grafic
+- 👀 I’m interested in realtime graph
 - 🌱 I’m currently learning touchdesigner, davinci resolve fusion, python, houdini
 
 
